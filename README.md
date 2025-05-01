@@ -7,6 +7,8 @@ JavaScript solution for [GitHub User Activity](https://roadmap.sh/projects/githu
 Run the following commands:
 
 ```bash
+
+# Run on console
 npm run start
 
 # Fetch the recent activity of a GitHub user
